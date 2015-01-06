@@ -7,6 +7,6 @@ File Description
 
 1.FormController.java is used for getting the data using GET method  and send into view .
 
-2.Student.java is a getter setter method file 
+2.Student.java Entity Bean
 
 Any Query Email me -amitprasad.om@gmail.com
