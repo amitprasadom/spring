@@ -5,7 +5,7 @@ In this project i am demonstrating how to use getter setter in Spring MVC with a
 
 File Description 
 
-1.FormController.java is used for getting the data using GET method  and send into view .
+1.FormController.java is Form controller 
 
 2.Student.java Entity Bean
 
